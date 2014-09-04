@@ -5,10 +5,10 @@ title: Introducing molva.spb.ru
 
 ## How does one gets to know what's going on?
 
-### A word on how do we interact to each other
+### A word on how do we interact with each other
 
 Imagine a day without any word heard from other people.
-Quiet impossible and creepy, isn't it?
+Quite impossible and creepy, isn't it?
 
 We talk to each other, we write emails, do texting by phone, 
 send messages, write blog posts, read blog posts, and comment them.
@@ -71,11 +71,11 @@ Information presented by [molva.spb.ru](http://molva.spb.ru/) appears to have fo
 - leasures
 - general synonymy
 
-The most appealing is ability to observe the *social mentality*, i.e. what does the group of people think about critical news, persons and so on.
+The most appealing is ability to observe the *public opinion*, i.e. what does the group of people think about critical news, persons and so on.
 The evaluation therefore is to find out how well is current molva.spb.ru main page correlated to top of news, available for example, at [Yandex News](http://news.yandex.ru/).
 Can human pick one words group displayed at [molva.spb.ru](http://molva.spb.ru/) and find corresponding news article?
 
-While evaluation is still in progress, and we don't have good numbers, graphs and tables, it's current results seem promising.
+While evaluation is still in progress, and we don't have good numbers, graphs and tables to show, it's current results seem promising.
 
-
+Ждем вас в гости на сайте [molva.spb.ru](http://molva.spb.ru/)!
 
