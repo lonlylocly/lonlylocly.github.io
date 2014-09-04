@@ -44,6 +44,7 @@ And Russian is both tricky and beatiful!
 ## What's the model
 
 The big picture of [molva.spb.ru](http://molva.spb.ru/) is:
+
 - reads [Twitter streaming API](https://dev.twitter.com/docs/api) 24/7
 - greps only Russian posts
 - finds replys and create conversation chains (post and reply pairs, actually)
@@ -55,6 +56,7 @@ The big picture of [molva.spb.ru](http://molva.spb.ru/) is:
 - rank several trendy clusters and display them
 
 The trend analysis is based on *"moving average"*:
+
 - three time frames are taken: now, now - 3h, now - 6h
 - frame size is 24h
 - trend is fraction of actual word popularity versus expected
@@ -62,6 +64,7 @@ The trend analysis is based on *"moving average"*:
 ## Evaluation
 
 Information presented by [molva.spb.ru](http://molva.spb.ru/) appears to have following broad topics:
+
 - news 
 - weather
 - time of day
