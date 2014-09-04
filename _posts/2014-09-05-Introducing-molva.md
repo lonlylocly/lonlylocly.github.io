@@ -33,44 +33,44 @@ Here at [molva.spb.ru](http://molva.spb.ru/), we are trying to answer this quest
 
 ### Why Twitter?
 
-Twitter is rather popular, has nice API's, and **simple**.
+Twitter is rather popular, has nice API's, and is **simple**.
 
 ### Why Russian segment?
 
-Whilest there exist tons of Twitter trend monitors for English, for Russian they are few and poor.
+Whilst there exist tons of Twitter trend monitors for English, for Russian they are few and poor.
 And Russian is both tricky and beatiful!
 
 
 ## What's the model
 
-The big picture of **molva.spb.ru** is:
-  * [molva.spb.ru] reads [Twitter streaming API](https://dev.twitter.com/docs/api) 24/7
-  * greps only Russian posts
-  * finds replys and create conversation chains (post and reply pairs, actually)
-  * parses tweets with tremendous [Yandex Tomita Parser](http://api.yandex.ru/tomita/) and stores each tweet's stems
-  * selects top **N** most popular stems 
-  * builds post-reply frequence distribution (which words are used to answer on which) and weights it, so most common reply-words get lowered and more specific ones get praised
-  * runs each-to-each *cosine similarity* for word profiles
-  * clusters word profiles into **M** clusters with k-means algorithm
-  * rank several trendy clusters and display them
+The big picture of [molva.spb.ru](http://molva.spb.ru/) is:
+ - reads [Twitter streaming API](https://dev.twitter.com/docs/api) 24/7
+ - greps only Russian posts
+ - finds replys and create conversation chains (post and reply pairs, actually)
+ - parses tweets with tremendous [Yandex Tomita Parser](http://api.yandex.ru/tomita/) and stores each tweet's stems
+ - selects top **N** most popular stems 
+ - builds post-reply frequence distribution (which words are used to answer on which) and weights it, so most common reply-words get lowered and more specific ones get praised
+ - runs each-to-each *cosine similarity* for word profiles
+ - clusters word profiles into **M** clusters with *k-means algorithm*
+ - rank several trendy clusters and display them
 
-The trend analysis is based on "moving average":
-  * three time frames are taken: now, now - 3h, now - 6h
-  * frame size is 24h
-  * trend is fraction of actual word popularity versus expected
+The trend analysis is based on *"moving average"*:
+ - three time frames are taken: now, now - 3h, now - 6h
+ - frame size is 24h
+ - trend is fraction of actual word popularity versus expected
 
 ## Evaluation
 
-Information presented by **molva.spb.ru** appears to have following broad topics:
-  * news 
-  * weather
-  * time of day
-  * leasures
-  * general synonymy
+Information presented by [molva.spb.ru](http://molva.spb.ru/) appears to have following broad topics:
+ - news 
+ - weather
+ - time of day
+ - leasures
+ - general synonymy
 
 The most appealing is ability to observe the *social mentality*, i.e. what does the group of people think about critical news, persons and so on.
 The evaluation therefore is to find out how well is current molva.spb.ru main page correlated to top of news, available for example, at [Yandex News](http://news.yandex.ru/).
-Can human pick one words group displayed at **molva.spb.ru** and find corresponding news article?
+Can human pick one words group displayed at [molva.spb.ru](http://molva.spb.ru/) and find corresponding news article?
 
 While evaluation is still in progress, and we don't have good numbers, graphs and tables, it's current results seem promising.
 
