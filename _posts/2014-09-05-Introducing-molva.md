@@ -77,5 +77,7 @@ Can human pick one words group displayed at [molva.spb.ru](http://molva.spb.ru/)
 
 While evaluation is still in progress, and we don't have good numbers, graphs and tables to show, it's current results seem promising.
 
+-----
+
 Ждем вас в гости на сайте [molva.spb.ru](http://molva.spb.ru/)!
 
