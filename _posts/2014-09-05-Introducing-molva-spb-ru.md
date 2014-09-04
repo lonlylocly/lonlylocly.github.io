@@ -14,10 +14,10 @@ We talk to each other, we write emails, do texting by phone,
 send messages, write blog posts, read blog posts, and comment them.
 
 Every bit of information coming through our brain produces some reaction.
-Most of times it is *ignorance*, but from time to time we *respond*.
+Most of the time it is *rejection*, but from time to time we *respond*.
 
 There begins association between words heard and words replied.
-These words are chained together, they form a new specie &mdash; **a conversation**.
+These words are chained together, they form a new one species &mdash; **a conversation**.
 
 ### Ah, Twitter again
 
