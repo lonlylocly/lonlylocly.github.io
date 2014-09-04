@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Nikolay Vasiliev
+tagline:          Sideways notes
+url:              http://twitter.com/lonlylocly
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Nikolay Vasiliev
+  url:            https://twitter.com/lonlylocly
+  email:          lonlylocly@yandex.ru
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/lonlylocly/lonlylocly.github.io
