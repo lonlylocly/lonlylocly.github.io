@@ -9,7 +9,7 @@ title: Изобретаем on duplicate key update для SQLite
 
 На практике, конечно, оказалось, что не все так гладко, как я предполагал. Например, SQLite не умеет делать file-per-table, при случайных delete и insert база быстро фрагментируется и чтение замедляется...
 
-А еще в sqlite нет on duplicate key update при insert.
+А еще в SQLite нет on duplicate key update при insert.
 
 В моем случае это особенно печально, т.к. требуется обновлять словари частотности словоформ и биграмм.
 
