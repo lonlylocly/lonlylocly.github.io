@@ -14,15 +14,18 @@ title: Изобретаем on duplicate key update для SQLite
 В моем случае это особенно печально, т.к. требуется обновлять словари частотности словоформ и биграмм.
 
 Сначала леммы и словоформы пишутся в лог следующей структуры:  
+
     CREATE TABLE IF NOT EXISTS tweets_words(
         id integer,
         noun_md5 integer,
         source_md5 integer,
         PRIMARY KEY(id, noun_md5, source_md5)
     )
+    
 Логи хранятся в отдельных подневных базах. В терминах SQLite это означает, что для каждого дня есть отдельный файл, в каждом из которых есть табличка tweets_words.
 
 Затем заполняем словарь частотности:
+
     CREATE TABLE IF NOT EXISTS tweets_words_freq(
         noun_md5 integer,
         source_md5 integer,
