@@ -65,6 +65,7 @@ title: Изобретаем on duplicate key update для SQLite
     )
 
 Такую структуру можно следующим запросом:
+
      CREATE TABLE tweets_words_freq_tmp 
      AS SELECT * 
      FROM tweets_words_freq 
