@@ -72,6 +72,7 @@ scratched the sky?..
 -- That's so cool! What can I do for you?
 
 -- Here, help me to lift this Heavy Squizer part up...
+
 Hamster stopped the Circle for a moment to give a hand to Bob. 
 Suddenly Bob realised that actual friend is the one, who would give you 
 a hand whatever it takes...
