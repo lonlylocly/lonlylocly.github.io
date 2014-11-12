@@ -112,7 +112,7 @@ I am wasting my time with this tiny little Circle!
 
 -- So, you're gone for good... I will miss you, Hamster.
 
-Bob was sad. Out of all the friends he happened to care about one most.
+Bob was sad. Out of all the friends he happened to care most about the one who was leaving.
 The other day he met the Consellor:
 
 -- Look, Consellor, I have built the Flying Machine!
