@@ -129,7 +129,7 @@ Mountains.
 -- Good for you.
 
 Bob was disappointed again. The other friend didn't care much about him
-flying away. It seemed like not all of these friends were equal. They seemed
+flying away. It seemed like not all of these friends were equal. They were
 friendly, but not friendful. He had just broke the first rule of the Place.
 No more friends left for him here. And the second rule seemed to be working
 like, never - because, now, when he is doing what he wants to, nothing left
