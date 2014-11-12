@@ -2,7 +2,7 @@
 layout: post
 title: Bob the Mushroom in Wonderland 
 ---
-<pre>
+
 Here folks is a story about Bob the Mushroom, who happened to travel to Wonderland
 (and got back). Nobody remembers exactly why his second name was "the Mushroom",
 some tell it's because he's old species, well like the mold. Others say he used
@@ -121,4 +121,3 @@ the ground instead, Edelweiss Fields were flooded down to make lake for
 the Hydro Plant, and the Hamster's Circle happened to be demolished. 
 
 Robert turned his head to the new views opening to him, and smiled.
-</pre>
