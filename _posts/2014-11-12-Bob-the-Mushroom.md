@@ -13,17 +13,19 @@ glossy powder onto Edelweiss Fields. It was all shining, incredible and mysterio
 Wonderland used to be surrounded by Foggy Mountains, so you wouldn't even tell
 it from a regular hills. Never know what's inside. 
 
-So, Bob. One day he put on his hat, his pants with one button and decide to
+So, Bob. One day he put on his hat, his pants with one button and decided to
 go to Wonderland. He got the map, made some calls, met some people, and he was given 
 a keypass to the Wonderland Gate. And the journey began. 
 
-'Here in the Place, we have some rules. First of all, we all are Friends.'
-Bob's heart ached a little. 'That must truly be a wonderland!', he thought.
-'I've been looking for friends so desperately for years!'
-'Number two, you can do whatever you want. If anyone finds that you are
-not doing so - next day you wake up at home, and would never see the Place again.'
+-- Here in the Place, we have some rules. First of all, we all are Friends.
 
-'Great!', Bob thought. 'Ok', he said.
+Bob's heart ached a little. "That must truly be a wonderland!", he thought.
+"I've been looking for friends so desperately for years!"
+
+-- Number two, you can do whatever you want. If anyone finds that you are
+not doing so - next day you wake up at home, and would never see the Place again.
+
+"Great!", Bob thought. "Ok", he said.
 
 And Bob began doing whatever-he-wanted-to with his friends. It was pretty hard job,
 I must say. Since everyone was already a friend, it was hard to make new friends.
@@ -35,15 +37,15 @@ carpenters, or layers, or drivers but here in the Place, they were just happy
 people.
 
 Doing whatever you want to didn't end so well, too. In fact, Bob didn't know
-what he wants to do. So he decided to do what others wanted. 'Please,' - he
-used to say, 'tell me what do you want to be done?' One day he was told to
+what he wants to do. So he decided to do what others wanted. "Please," - he
+used to say, "tell me what do you want to be done?" One day he was told to
 cut some mushrooms, because they grew too high. (Maybe that was the day they
 started to call him the Mushroom). No one cut those mushrooms ever before. They were
 stone-thick, wet and the surface part was just the cherry on the top of a cake.
 Bob had nothing but his hands and army knife.
 
-'Why do we need to cut these?', he asked Consellor. The Consellor replied softly:
-'Because I want them cut, and you want to do what I want'. Bob took his knife
+"Why do we need to cut these?", he asked Consellor. The Consellor replied softly:
+"Because I want them cut, and you want to do what I want". Bob took his knife
 and gone long with mushrooms.
 
 He spent days and days in the mushroom valley, and mushrooms didn't appear 
