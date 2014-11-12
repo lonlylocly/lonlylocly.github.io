@@ -60,10 +60,15 @@ it five days and five nights in a row, and still the Bulb wasn't warm enough.
 Maybe it was because the Bulb was just too big and would never warn up because 
 of the cold air in the heights, where the top of the Bulb
 scratched the sky?.. 
+
 -- Hey, Hamster, I need your help.
+
 -- What are you doing? - Hamster asked. 
+
 -- I'm building a Machine to cut Mushrooms!
+
 -- That's so cool! What can I do for you?
+
 -- Here, help me to lift this Heavy Squizer part up...
 Hamster stopped the Circle for a moment to give a hand to Bob. 
 Suddenly Bob realised that actual friend is the one, who would give you 
@@ -88,23 +93,36 @@ at a time, until the big picture arises. And it did. The next machine he built
 was able to take off from ground and fly several meters alongside.
 
 Bob was just so happy, he couldn't cope. 
+
 -- Hey, Hamster, look, it actually flies!
+
 -- Yes, it does! Good for you!
+
 -- And why is not your Circle spinning?
+
 -- I am leaving Wonderland.
+
 -- ...
+
 -- I heard there is a larger Circle on the other side of the Foggy Mountains.
 I am wasting my time with this tiny little Circle!
+
 -- So, you're gone for good... I will miss you, Hamster.
 
 Bob was sad. Out of all the friends he happened to care about one most.
 The other day he met the Consellor:
+
 -- Look, Consellor, I have built the Flying Machine!
+
 -- So what? Why would you do that?
+
 -- Now I can fly anywhere I want! Even to the other side of the Foggy
 Mountains.
+
 -- So fly. 
+
 -- Aren't you happy for me? Because I'm finally doing what I really want to do!
+
 -- Good for you.
 
 Bob was disappointed again. The other friend didn't care much about him
