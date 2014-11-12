@@ -79,8 +79,8 @@ a hand whatever it takes...
 
 When Squizer was in the right place, Bob had just few knobs to fix, and the Machine 
 was ready to cut the Mushrooms. But he didn't want to cut mushrooms anymore.
-He wanted to build another Machine. 'This time, the Machine will actually
-gonna fly!' Bob went to Butterfly Garage, took some worn-out wings, ropes, 
+He wanted to build another Machine. "This time, the Machine will actually
+gonna fly!" Bob went to Butterfly Garage, took some worn-out wings, ropes, 
 and few pounds of not so glossy, used butterfly wing power (to make some glue).
 He spent weeks and weeks trying different combinations of wings, glue and ropes,
 and the Machine hardly managed to move wings. 
