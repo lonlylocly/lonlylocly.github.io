@@ -86,7 +86,7 @@ He spent weeks and weeks trying different combinations of wings, glue and ropes,
 and the Machine hardly managed to move wings. 
 
 -- Have you been to Marshmallow Library? It is over there, near Edelweiss Fields.
-Maybe there is solution for you flying machine problem. - Hamster told. - I used
+Maybe there is solution for your flying machine problem. - Hamster told. - I used
 it myself to build the Circle.
 
 The Library did had some solutions: on how to combine several butterfly wings
