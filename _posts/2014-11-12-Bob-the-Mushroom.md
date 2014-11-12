@@ -61,11 +61,15 @@ Maybe it was because the Bulb was just too big and would never warn up because
 of the cold air in the heights, where the top of the Bulb
 scratched the sky?.. 
 
-  - Hey, Hamster, I need your help.
-  - What are you doing? - Hamster asked. 
-  - I'm building a Machine to cut Mushrooms!
-  - That's so cool! What can I do for you?
-  - Here, help me to lift this Heavy Squizer part up...
+-- Hey, Hamster, I need your help.
+
+-- What are you doing? - Hamster asked. 
+
+-- I'm building a Machine to cut Mushrooms!
+
+-- That's so cool! What can I do for you?
+
+-- Here, help me to lift this Heavy Squizer part up...
 Hamster stopped the Circle for a moment to give a hand to Bob. 
 Suddenly Bob realised that actual friend is the one, who would give you 
 a hand whatever it takes...
@@ -78,9 +82,9 @@ and few pounds of not so glossy, used butterfly wing power (to make some glue).
 He spent weeks and weeks trying different combinations of wings, glue and ropes,
 and the Machine hardly managed to move wings. 
 
-  - Have you been to Marshmallow Library? It is over there, near Edelweiss Fields.
-  Maybe there is solution for you flying machine problem. - Hamster told. - I used
-  it myself to build the Circle.
+-- Have you been to Marshmallow Library? It is over there, near Edelweiss Fields.
+Maybe there is solution for you flying machine problem. - Hamster told. - I used
+it myself to build the Circle.
 
 The Library did had some solutions: on how to combine several butterfly wings
 into a larger one, how to make wings move synchronously, but there was no solution
@@ -89,24 +93,37 @@ at a time, until the big picture arises. And it did. The next machine he built
 was able to take off from ground and fly several meters alongside.
 
 Bob was just so happy, he couldn't cope. 
-  - Hey, Hamster, look, it actually flies!
-  - Yes, it does! Good for you!
-  - And why is not your Circle spinning?
-  - I am leaving Wonderland.
-  - ...
-  - I heard there is a larger Circle on the other side of the Foggy Mountains.
-  I am wasting my time with this tiny little Circle!
-  - So, you're gone for good... I will miss you, Hamster.
+
+-- Hey, Hamster, look, it actually flies!
+
+-- Yes, it does! Good for you!
+
+-- And why is not your Circle spinning?
+
+-- I am leaving Wonderland.
+
+-- ...
+
+-- I heard there is a larger Circle on the other side of the Foggy Mountains.
+I am wasting my time with this tiny little Circle!
+
+-- So, you're gone for good... I will miss you, Hamster.
 
 Bob was sad. Out of all the friends he happened to care about one most.
 The other day he met the Consellor:
-  - Look, Consellor, I have built the Flying Machine!
-  - So what? Why would you do that?
-  - Now I can fly anywhere I want! Even to the other side of the Foggy
-  Mountains.
-  - So fly. 
-  - Aren't you happy for me? Because I'm finally doing what I really want to do!
-  - Good for you.
+
+-- Look, Consellor, I have built the Flying Machine!
+
+-- So what? Why would you do that?
+
+-- Now I can fly anywhere I want! Even to the other side of the Foggy
+Mountains.
+
+-- So fly. 
+
+-- Aren't you happy for me? Because I'm finally doing what I really want to do!
+
+-- Good for you.
 
 Bob was disappointed again. The other friend didn't care much about him
 flying away. It seemed like not all of these friends were equal. They seemed
