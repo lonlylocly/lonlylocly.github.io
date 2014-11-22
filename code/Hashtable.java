@@ -20,11 +20,17 @@ public class Hashtable {
         return e.key % m;
     }
 
+    /**
+     *  O(1) since it doesn't lookup value first
+     */
     public void putUnsafe(Element e) {
         int h = h(e);
         slots[h].add(e);
     }
 
+    /**
+     *  complex = O(search) + O(insert) = O(search) = O ( 1 + alpha)
+     */
     public void putSafe(Element e) {
         int h = h(e);
         Element eOld = search(e);
@@ -34,6 +40,14 @@ public class Hashtable {
         slots[h].add(e);
     }
 
+    /**
+     * average chain length: alpha = n / m
+     * n - total hashtable elements, 
+     * m - total hashtable slots
+     * complex = O(1 + aplha) 
+     * apparently, complexity of search is complexity of list traversal,
+     * i.e. depends on list length
+     */
     public Element search(Element e) {
         int h = h(e);
         for(Element e2 : slots[h]) {
@@ -44,7 +58,9 @@ public class Hashtable {
         return null;
     }
 
-
+    /**
+     * Depends once again on search: O(1 + alpha)
+     */
     public void deleteSafe(Element e) {
         int h = h(e);
         Element eOld = search(e);
