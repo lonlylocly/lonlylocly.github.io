@@ -76,6 +76,13 @@ public class DualStack<E> {
         return cur2 - cur1 - 1;
     }
 
+    public void printStack() {
+        System.out.println("Cur1: " + cur1);
+        System.out.println("Cur2: " + cur2);
+        for (int i=0; i<bytes.length ;  i++) {
+            System.out.println(i + ": " + bytes[i]);
+        }
+    }
 
     public static void main(String[] args) {
         System.out.println("Messing with DualStack<String>");
@@ -124,10 +131,14 @@ public class DualStack<E> {
         } catch (IllegalStateException ex) {
             // ok
         }
+    
+        d.printStack();
 
         d.pop2();
         d.pop2();
         d.pop2();
+
+        d.printStack();
 
         try {
             d.pop2();
@@ -136,7 +147,7 @@ public class DualStack<E> {
             // ok
         }
 
-        assert d.spare() == 0;
+        assert d.spare() == 4;
 
         System.out.println("Done with DualStack");
     }
