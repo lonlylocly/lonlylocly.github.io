@@ -6,7 +6,10 @@ public class List<E> {
 
     Item<E> head = null;
     int length = 0;
-   
+  
+    /**
+     * O(n) - because to append to the tail requires full search
+     */ 
     public void append(E e) {
         if (head == null) {
             head = new Item<E>(null, e);
@@ -18,6 +21,10 @@ public class List<E> {
         length += 1;
     }
 
+    /**
+     * Average O(n), because of search
+     * insert(0) - O(1) becuse nothing to search
+     */ 
     public void insert(int i, E e) {
         if (i == length) {
             append(e);
@@ -43,10 +50,16 @@ public class List<E> {
         length += 1;
     }
 
+    /**
+     * O(n) because of search
+     */
     public boolean contains(E e) {
         return search(e) != null;
     }
 
+    /**
+     *  O(n) search
+     */
     public E get(int i) {
         if (i < 0 || i >= length) {
             throw new IllegalArgumentException();
@@ -55,6 +68,9 @@ public class List<E> {
         return e.getValue();
     }
 
+    /**
+     * O(n)
+     */
     private Item<E> search(E e) {
         Item<E> ptr = head;
         while(true) {
@@ -69,6 +85,9 @@ public class List<E> {
         return ptr;
     }
 
+    /**
+     *  O(n) - average traversal time is length /2
+     */
     private Item<E> search(int i) {
         if ( i<0 || i > length) {
             throw new IllegalArgumentException();
@@ -81,6 +100,9 @@ public class List<E> {
         return ptr; 
     }
 
+    /**
+     * O(n)
+     */
     public E remove(int i) {
         Item<E> ptr = search(i);
         remove(ptr);
@@ -88,6 +110,9 @@ public class List<E> {
         return ptr.getValue();
     }
 
+    /**
+     * O(n)
+     */
     public E remove(E e) {
         Item<E> ptr = search(e);
         if (ptr != null) {
@@ -98,6 +123,9 @@ public class List<E> {
         }
     }
 
+    /**
+     * O(1) 
+     */
     private void remove(Item<E> e) {
         Item<E> prev = e.getPrev();
         Item<E> next = e.getNext();
@@ -113,6 +141,9 @@ public class List<E> {
         length -= 1;
     }
 
+    /**
+     * O(1)
+     */
     public int length() {
         return length;
     } 
