@@ -44,10 +44,6 @@ public class Hashtable {
         return null;
     }
 
-    public void deleteUnsafe(Element e) {
-        int h = h(e);
-        slots[h].remove(e);    
-    }
 
     public void deleteSafe(Element e) {
         int h = h(e);
@@ -77,14 +73,6 @@ public class Hashtable {
 
         assert t.search( new Element(8, "Rachel")) != null : "Miss Rachel";
         assert t.search( new Element(14, "Joey")) == null : "Joey is here, bleh";
-
-        Element rachel = t.search(new Element(8, "Rachel"));
-        t.deleteUnsafe(rachel);
-        
-        System.out.println("Removed Rachel");
-        assert t.search(new Element(8, "Rachel and Ross")) == null : "Rachel still with Ross?!";
-
-        t.printContent();
 
         t.deleteSafe(new Element(123123, "And chanler has to go"));
 
