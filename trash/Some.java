@@ -10,16 +10,10 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  * @author Dmitry Baev charlie@yandex-team.ru
  *         Date: 28.10.13
  */
+ @Feature("User search at page")
 public class SearchTest {
 
     private WebDriverSteps steps;
-
-    @Before
-    public void setUp() throws Exception {
-        steps = new WebDriverSteps(
-                new PhantomJSDriver(new DesiredCapabilities())
-        );
-    }
 
     @Test
     public void searchTest() throws Exception {
